@@ -4,4 +4,4 @@ This folde contains all the project output images. The list of projects are => <
 2) DC to DC Buck converter Vout=3.3v, 3A
 3) P. Fan regulator
 4) 4 Chanel Relay Module 5V
-5) 
+5) Mini DC fan controller 3 levels
