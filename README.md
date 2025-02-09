@@ -5,3 +5,4 @@ This folde contains all the project output images. The list of projects are => <
 3) P. Fan regulator
 4) 4 Chanel Relay Module 5V
 5) Mini DC fan controller 3 levels
+6) 12V2A SMPS LEDM1
